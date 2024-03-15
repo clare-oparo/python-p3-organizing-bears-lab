@@ -119,14 +119,7 @@ Get the tests in `testing/insert_test_.py` to pass by writing code in the
 `lib/insert.sql` file. Input the following 8 bears (you can make up details
 about them, but make sex either 'M' or 'F'):
 
-- Mr. Chocolate
-- Rowdy
-- Tabitha
-- Sergeant Brown
-- Melissa
-- Grinch
-- Wendy
-- unnamed (refer back to how to create a record that doesn't have one value)
+-  (refer back to how to create a record that doesn't have one value)
 
 ***
 
